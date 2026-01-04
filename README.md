@@ -33,7 +33,7 @@ Here are some of my top projects:
 - Built with **React, Node.js, and a backend API**  
 - [GitHub Repo](https://github.com/bakurkvaratskhelia/reddit)  
 
-*(Add more projects here as needed — keep only your strongest repos pinned)*
+*(Keep only your strongest repos pinned for clarity)*
 
 ---
 
@@ -47,7 +47,8 @@ Here are some of my top projects:
 ---
 
 ## 📂 Portfolio Structure
-BakurKvaratskhelia/
+
+```BakurKvaratskhelia/
 ├── index.html # Main landing page
 ├── projects.html # Portfolio/projects gallery
 ├── about.html # About me section
@@ -55,33 +56,6 @@ BakurKvaratskhelia/
 ├── css/ # Stylesheets
 ├── js/ # JavaScript (if interactive)
 ├── images/ # Profile, project thumbnails
-└── ...
-
-
----
-
-## ⚡ How to View Locally
-
-1. Clone the repository
-```bash
-git clone https://github.com/bakurkvaratskhelia/BakurKvaratskhelia.git
-cd BakurKvaratskhelia
-
-📫 Contact Me
-
-For professional inquiries or collaboration, feel free to connect:
-
-LinkedIn: bakur-kvaratskhelia-5784603a
-
-Email: bakurikv@yahoo.com
-
-GitHub Issues: Open an Issue
-
-📝 License
-
-This project is licensed under the MIT License.
-See the LICENSE
- file for details.
-
+└── ... ```
 
 
