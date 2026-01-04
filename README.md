@@ -82,11 +82,7 @@ See the [LICENSE](./LICENSE) file for details.
 
 For professional inquiries or collaboration, feel free to [open an issue](https://github.com/bakurkvaratskhelia/BakurKvaratskhelia/issues) or connect with me:
 
-**LinkedIn:** [bakur-kvaratskhelia-5784603a](https://www.linkedin.com/in/bakur-kvaratskhelia-5784603a)
+**LinkedIn:** [bakur-kvaratskhelia-5784603a](https://www.linkedin.com/in/bakur-kvaratskhelia-5784603a)  
+**Email:** [bakurikv@yahoo.com](mailto:bakurikv@yahoo.com)
 
 ---
-  
-  
-
-
-
