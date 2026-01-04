@@ -67,5 +67,15 @@ BakurKvaratskhelia/
 git clone https://github.com/bakurkvaratskhelia/BakurKvaratskhelia.git
 cd BakurKvaratskhelia
 
+📫 Contact Me
+
+For professional inquiries or collaboration, feel free to connect:
+
+LinkedIn: bakur-kvaratskhelia-5784603a
+
+Email: bakurikv@yahoo.com
+
+GitHub Issues: Open an Issue
+
 
 
