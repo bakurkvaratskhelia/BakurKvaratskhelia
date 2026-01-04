@@ -1,88 +1,51 @@
-# Bakur Kvaratskhelia – Personal Portfolio
+# Hi, I’m Bakur Kvaratskhelia 👋
 
-Welcome! This is my personal developer portfolio built to showcase my work, technical skills, and background as a software developer.
-
----
-
-## About
-
-Hello, I’m **Bakur Kvaratskhelia**—a passionate software developer with expertise in full-stack web, cross-platform mobile development, and modern, responsive UIs.
-
-This portfolio website offers an overview of my latest projects, work history, and ways to contact me.
+Welcome to my personal developer portfolio!  
+I’m a **Full-Stack & Cross-Platform Developer** passionate about building modern web and mobile applications with clean, responsive UIs.
 
 ---
 
-## Features
+## 🧑‍💻 About Me
 
-- **Project Gallery** – Browse a curated selection of my web, mobile, and full-stack work
-- **About Me Section** – My background, education, and software development journey
-- **Skills & Technologies** – A summary of tools and frameworks I use
-- **Contact Form/Links** – Easy ways to reach out
-
----
-
-## Tech Stack
-
-- **Frontend:**  
-  - HTML5, CSS3, JavaScript  
-  - (Optionally) React / Vue / other SPA framework
-- **Styling:**  
-  - CSS3, Sass, or Styled-Components
-- **Other:**  
-  - Git & GitHub for project management
+- Experienced in **full-stack web development** and **cross-platform mobile apps**  
+- Skilled in **React Native, Expo, JavaScript, HTML5, CSS3**  
+- Focused on **real-time apps, responsive design, and seamless user experiences**  
+- Always learning and exploring **modern technologies** to build better software
 
 ---
 
-## Project Structure
+## 🚀 Featured Projects
 
-```
-BakurKvaratskhelia/
-├── index.html           # Main landing page
-├── projects.html        # Portfolio/projects gallery
-├── about.html           # About me section
-├── contact.html         # Contact or social links
-├── css/                 # Stylesheets
-├── js/                  # JavaScript (if interactive)
-├── images/              # Profile, project thumbnails, etc.
-└── ...
-```
+Here are some of my top projects:
 
----
+### Todo App
+- **Full-stack, cross-platform todo app** (iOS, Android, Web)  
+- Built with **React Native + Expo** and **Convex backend**  
+- [GitHub Repo](https://github.com/bakurkvaratskhelia/todo-app)  
 
-## Getting Started
+### Netflix Clone
+- **Front-end project mimicking Netflix UI**  
+- Built with **React** and responsive design principles  
+- [GitHub Repo](https://github.com/bakurkvaratskhelia/netflix-clone)  
 
-You can view the site live if deployed or run it locally:
+### Reddit Clone
+- **Social media style full-stack application**  
+- Built with **React, Node.js, and a backend API**  
+- [GitHub Repo](https://github.com/bakurkvaratskhelia/reddit)  
 
-**1. Clone the repo**
-```bash
-git clone https://github.com/bakurkvaratskhelia/BakurKvaratskhelia.git
-cd BakurKvaratskhelia
-```
-**2. Open `index.html` in your browser**
+*(Add more projects here as needed — keep only your strongest repos pinned)*
 
 ---
 
-## Why This Project?
+## 🛠️ Tech Stack
 
-Creating this portfolio allowed me to:
-- Demonstrate my skills in clean UI/UX and responsive web design
-- Collect my best work in one place for employers and collaborators
-- Practice accessible and semantic markup
-
----
-
-## License
-
-This project is licensed under the MIT License.  
-See the [LICENSE](./LICENSE) file for details.
+**Frontend:** React, React Native, Expo, HTML5, CSS3, JavaScript  
+**Backend:** Convex, Node.js  
+**Styling:** CSS3, Sass, Styled-Components  
+**Tools:** Git, GitHub, VS Code, Expo CLI  
 
 ---
 
-## Contact
+## 📂 Portfolio Structure
 
-For professional inquiries or collaboration, feel free to [open an issue](https://github.com/bakurkvaratskhelia/BakurKvaratskhelia/issues) or connect with me:
 
-**LinkedIn:** [bakur-kvaratskhelia-5784603a](https://www.linkedin.com/in/bakur-kvaratskhelia-5784603a)  
-**Email:** [bakurikv@yahoo.com](mailto:bakurikv@yahoo.com)
-
----
