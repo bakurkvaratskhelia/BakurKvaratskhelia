@@ -47,5 +47,25 @@ Here are some of my top projects:
 ---
 
 ## 📂 Portfolio Structure
+BakurKvaratskhelia/
+├── index.html # Main landing page
+├── projects.html # Portfolio/projects gallery
+├── about.html # About me section
+├── contact.html # Contact or social links
+├── css/ # Stylesheets
+├── js/ # JavaScript (if interactive)
+├── images/ # Profile, project thumbnails
+└── ...
+
+
+---
+
+## ⚡ How to View Locally
+
+1. Clone the repository
+```bash
+git clone https://github.com/bakurkvaratskhelia/BakurKvaratskhelia.git
+cd BakurKvaratskhelia
+
 
 
