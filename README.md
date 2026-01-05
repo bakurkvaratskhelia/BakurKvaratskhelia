@@ -31,7 +31,8 @@ Here are some of my top projects:
 
 ### Reddit Clone
 - **Social media style full-stack application**  
-- Built with **React, Node.js, and a backend API**  
+- Built with **React, Node.js, and a backend API**
+- [Reddit Clone Link](https://bakurkvaratskhelia.github.io/reddit/) 
 - [GitHub Repo](https://github.com/bakurkvaratskhelia/reddit)  
 
 
