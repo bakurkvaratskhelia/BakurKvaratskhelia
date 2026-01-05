@@ -33,7 +33,7 @@ Here are some of my top projects:
 - Built with **React, Node.js, and a backend API**  
 - [GitHub Repo](https://github.com/bakurkvaratskhelia/reddit)  
 
-*(Keep only your strongest repos pinned for clarity)*
+
 
 ---
 
