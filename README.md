@@ -46,6 +46,15 @@ Here are some of my top projects:
 
 ---
 
+## Contact
+
+For professional inquiries or collaboration, feel free to [open an issue](https://github.com/bakurkvaratskhelia/BakurKvaratskhelia/issues) or connect with me:
+
+**LinkedIn:** [bakur-kvaratskhelia-5784603a](https://www.linkedin.com/in/bakur-kvaratskhelia-5784603a)  
+**Email:** [bakurikv@yahoo.com](mailto:bakurikv@yahoo.com)
+
+---
+
 ## 📂 Portfolio Structure
 
 ```BakurKvaratskhelia/
@@ -56,6 +65,7 @@ Here are some of my top projects:
 ├── css/ # Stylesheets
 ├── js/ # JavaScript (if interactive)
 ├── images/ # Profile, project thumbnails
-└── ... ```
+└── ...
+```
 
 
