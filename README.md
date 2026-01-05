@@ -47,6 +47,7 @@ Here are some of my top projects:
 **Tools:** Git, GitHub, VS Code, Expo CLI  
 
 ---
+- **Codecademy Achievements:** [codecademy.com/users/bkv1612/achievements](https://www.codecademy.com/users/bkv1612/achievements)
 
 ## Contact
 
