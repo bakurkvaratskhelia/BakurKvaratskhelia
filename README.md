@@ -25,7 +25,8 @@ Here are some of my top projects:
 
 ### Netflix Clone
 - **Front-end project mimicking Netflix UI**  
-- Built with **React** and responsive design principles  
+- Built with **React** and responsive design principles
+- [Netflix Clone Link](https://netflix-clone-6mnt.onrender.com/) 
 - [GitHub Repo](https://github.com/bakurkvaratskhelia/netflix-clone)  
 
 ### Reddit Clone
