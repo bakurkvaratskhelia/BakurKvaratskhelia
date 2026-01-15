@@ -67,8 +67,8 @@ Here are some of my top projects:
 
 ### ✅ Todo App
 
-**Live demo:**  
-*(Demo link not provided)*
+**Live demo (Android APK):**  
+[Download Android APK](https://github.com/bakurkvaratskhelia/todo-app/releases/download/v1.0.0/your-app-filename.apk)
 
 **Features:**
 - Full-stack, cross-platform todo app (iOS, Android, Web)
