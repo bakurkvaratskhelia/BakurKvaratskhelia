@@ -20,20 +20,6 @@ Here are some of my top projects:
 
 ---
 
-### ✅ Todo App
-
-**Live demo:**  
-*(Demo link not provided)*
-
-**Features:**
-- Full-stack, cross-platform todo app (iOS, Android, Web)
-- Built with React Native + Expo
-- Uses Convex backend
-
-**Source code:**  
-[GitHub Repo](https://github.com/bakurkvaratskhelia/todo-app)
-
----
 
 ### 🎬 Netflix Clone
 
@@ -78,6 +64,22 @@ Here are some of my top projects:
 [GitHub Repo](https://github.com/bakurkvaratskhelia/reddit)
 
 ---
+
+### ✅ Todo App
+
+**Live demo:**  
+*(Demo link not provided)*
+
+**Features:**
+- Full-stack, cross-platform todo app (iOS, Android, Web)
+- Built with React Native + Expo
+- Uses Convex backend
+
+**Source code:**  
+[GitHub Repo](https://github.com/bakurkvaratskhelia/todo-app)
+
+---
+
 ## 🛠️ Tech Stack
 
 **Frontend:** React, React Native, Expo, HTML5, CSS3, JavaScript  
