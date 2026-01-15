@@ -27,7 +27,12 @@ Here are some of my top projects:
 - **Front-end project mimicking Netflix UI**  
 - Built with **React** and responsive design principles
 - [Netflix Clone Link](https://netflix-clone-6mnt.onrender.com/) 
-- [GitHub Repo](https://github.com/bakurkvaratskhelia/netflix-clone)  
+- [GitHub Repo](https://github.com/bakurkvaratskhelia/netflix-clone)
+
+  ### Travel Agency Website
+A responsive travel agency website featuring destination highlights, booking information, and contact details.  
+**Live demo:** [https://bakurkvaratskhelia.github.io/travel_agency_website/index.html](https://bakurkvaratskhelia.github.io/travel_agency_website/index.html)  
+**Source code:** [GitHub Repository](https://github.com/bakurkvaratskhelia/travel_agency_website)
 
 ### Reddit Clone
 - **Social media style full-stack application**  
