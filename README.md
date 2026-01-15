@@ -18,40 +18,66 @@ I’m a **Full-Stack & Cross-Platform Developer** passionate about building mode
 
 Here are some of my top projects:
 
-### Todo App
-- **Full-stack, cross-platform todo app** (iOS, Android, Web)  
-- Built with **React Native + Expo** and **Convex backend**  
-- [GitHub Repo](https://github.com/bakurkvaratskhelia/todo-app)  
+---
 
-### Netflix Clone
-- **Front-end project mimicking Netflix UI**  
-- Built with **React** and responsive design principles
-- [Netflix Clone Link](https://netflix-clone-6mnt.onrender.com/) 
-- [GitHub Repo](https://github.com/bakurkvaratskhelia/netflix-clone)
+### ✅ Todo App
 
-  ### 🌍 Travel Agency Website
+**Live demo:**  
+*(Demo link not provided)*
 
-A responsive travel agency website featuring:
-- Destination highlights
-- Booking information
-- Contact details
+**Features:**
+- Full-stack, cross-platform todo app (iOS, Android, Web)
+- Built with React Native + Expo
+- Uses Convex backend
+
+**Source code:**  
+[GitHub Repo](https://github.com/bakurkvaratskhelia/todo-app)
+
+---
+
+### 🎬 Netflix Clone
+
+**Live demo:**  
+[https://netflix-clone-6mnt.onrender.com/](https://netflix-clone-6mnt.onrender.com/)
+
+**Features:**
+- Front-end project mimicking Netflix UI
+- Built with React
+- Responsive design principles
+
+**Source code:**  
+[GitHub Repo](https://github.com/bakurkvaratskhelia/netflix-clone)
+
+---
+
+### 🌍 Travel Agency Website
 
 **Live demo:**  
 [https://bakurkvaratskhelia.github.io/travel_agency_website/index.html](https://bakurkvaratskhelia.github.io/travel_agency_website/index.html)
 
+**Features:**
+- Destination highlights
+- Booking information
+- Contact details
+
 **Source code:**  
 [GitHub Repository](https://github.com/bakurkvaratskhelia/travel_agency_website)
 
-### Reddit Clone
-- **Social media style full-stack application**  
-- Built with **React, Node.js, and a backend API**
-- [Reddit Clone Link](https://bakurkvaratskhelia.github.io/reddit/) 
-- [GitHub Repo](https://github.com/bakurkvaratskhelia/reddit)  
-
-
-
 ---
 
+### 🗨️ Reddit Clone
+
+**Live demo:**  
+[https://bakurkvaratskhelia.github.io/reddit/](https://bakurkvaratskhelia.github.io/reddit/)
+
+**Features:**
+- Social media style full-stack application
+- Built with React, Node.js, and backend API
+
+**Source code:**  
+[GitHub Repo](https://github.com/bakurkvaratskhelia/reddit)
+
+---
 ## 🛠️ Tech Stack
 
 **Frontend:** React, React Native, Expo, HTML5, CSS3, JavaScript  
