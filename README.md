@@ -29,10 +29,18 @@ Here are some of my top projects:
 - [Netflix Clone Link](https://netflix-clone-6mnt.onrender.com/) 
 - [GitHub Repo](https://github.com/bakurkvaratskhelia/netflix-clone)
 
-  ### Travel Agency Website
-A responsive travel agency website featuring destination highlights, booking information, and contact details.  
-**Live demo:** [https://bakurkvaratskhelia.github.io/travel_agency_website/index.html](https://bakurkvaratskhelia.github.io/travel_agency_website/index.html)  
-**Source code:** [GitHub Repository](https://github.com/bakurkvaratskhelia/travel_agency_website)
+  ### 🌍 Travel Agency Website
+
+A responsive travel agency website featuring:
+- Destination highlights
+- Booking information
+- Contact details
+
+**Live demo:**  
+[https://bakurkvaratskhelia.github.io/travel_agency_website/index.html](https://bakurkvaratskhelia.github.io/travel_agency_website/index.html)
+
+**Source code:**  
+[GitHub Repository](https://github.com/bakurkvaratskhelia/travel_agency_website)
 
 ### Reddit Clone
 - **Social media style full-stack application**  
