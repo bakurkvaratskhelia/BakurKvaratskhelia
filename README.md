@@ -27,7 +27,7 @@ Here are some of my top projects:
 [https://netflix-clone-6mnt.onrender.com/](https://netflix-clone-6mnt.onrender.com/)
 
 **Features:**
-- Front-end project mimicking Netflix UI
+- full-stack Netflix clone web application
 - Built with React
 - Responsive design principles
 
