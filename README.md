@@ -99,17 +99,9 @@ For professional inquiries or collaboration, feel free to [open an issue](https:
 
 ---
 
-## 📂 Portfolio Structure
+## 📅 Schedule a Meeting
 
-```BakurKvaratskhelia/
-├── index.html # Main landing page
-├── projects.html # Portfolio/projects gallery
-├── about.html # About me section
-├── contact.html # Contact or social links
-├── css/ # Stylesheets
-├── js/ # JavaScript (if interactive)
-├── images/ # Profile, project thumbnails
-└── ...
-```
+If you’d like to connect or discuss opportunities, feel free to book a time that works for you:  
+[Book a 30-minute meeting with me on Calendly](https://calendly.com/kvaratskheliabakur/30min)
 
 
