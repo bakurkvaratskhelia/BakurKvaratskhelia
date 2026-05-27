@@ -12,7 +12,7 @@ I’m a **Full-Stack & Cross-Platform Developer** passionate about building mode
 - Interested in frontend development, API integration, and responsive UI design
 - Continuously improving practical development skills through hands-on projects
 
-- 
+--- 
 ## 🚀 Featured Projects
 
 Here are some of my top projects:
