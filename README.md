@@ -7,13 +7,12 @@ I’m a **Full-Stack & Cross-Platform Developer** passionate about building mode
 
 ## 🧑‍💻 About Me
 
-- Experienced in **full-stack web development** and **cross-platform mobile apps**  
-- Skilled in **React Native, Expo, JavaScript, HTML5, CSS3**  
-- Focused on **real-time apps, responsive design, and seamless user experiences**  
-- Always learning and exploring **modern technologies** to build better software
+- Junior JavaScript developer focused on React and React Native
+- Building cross-platform web and mobile applications using React Native, Expo, and modern JavaScript
+- Interested in frontend development, API integration, and responsive UI design
+- Continuously improving practical development skills through hands-on projects
 
----
-
+- 
 ## 🚀 Featured Projects
 
 Here are some of my top projects:
